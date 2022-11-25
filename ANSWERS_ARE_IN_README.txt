@@ -1,0 +1,1 @@
+Please, check README.txt to see answers to the questions given.
